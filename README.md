@@ -1,6 +1,6 @@
 # KeeConsole - Personal Password Manager
 
-Introducing KeeConsole – my brainchild, the TechWhizKid's personal password manager project! This creation is like a recipe that combines Batch files, PowerShell scripts, Python wizardry, and even a touch of C++ console sorcery (I swear, no magical creatures were harmed in the process). What's the result? A user-friendly, interactive interface that'll make managing passwords as enjoyable as a tickle fight with a friendly robot.
+Introducing KeeConsole – my brainchild, the 8gudbits's personal password manager project! This creation is like a recipe that combines Batch files, PowerShell scripts, Python wizardry, and even a touch of C++ console sorcery (I swear, no magical creatures were harmed in the process). What's the result? A user-friendly, interactive interface that'll make managing passwords as enjoyable as a tickle fight with a friendly robot.
 
 Now, picture this: My buddy [ConsolePassX](https://github.com/MagenusSkyler/ConsolePassX) threw down the gauntlet with his creation, ConsolePassX. Challenge accepted! KeeConsole emerged from the coding cauldron, aiming to be the coolest password manager in town – funky yet functional, like a disco ball with a hidden safe inside.
 
@@ -33,7 +33,7 @@ So there you have it – KeeConsole, the password protector that's cooler than a
 1. Clone the repository to your local machine using git.
 
 ```bash
-git clone https://github.com/TechWhizKid/KeeConsole.git
+git clone https://github.com/8gudbits/KeeConsole.git
 ```
 
 2. Navigate to the project directory.
